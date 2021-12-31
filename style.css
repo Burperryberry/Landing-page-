@@ -1,0 +1,50 @@
+* {
+    font-family: cursive;
+    color: green;
+    background-color: black;
+    text-align: center;
+}
+
+
+a {
+    text-align:center;
+    font-size:25px;
+    margin:100px;
+    margin-right: 100px;
+}
+
+ul,
+ol {
+    font-size: 20px;
+    border: 20px solid white;
+    padding: 10px;
+    width: 200px;
+    margin-left:800px;
+    flex-direction:column;
+    align-items:center;
+}
+
+h1 {
+    color:green;
+    font-size: 50px;
+    flex-direction: row-reverse;
+    text-align:center;
+    margin-bottom: 100px;
+}
+
+
+div {
+    font-size:35px;
+    
+}
+
+p {
+    color: green;
+    background-color: white;
+    border:20px solid green;
+    padding: 10px;
+    width: 1800px;
+    height: 50px;
+    font-size: 50px;
+    text-align: center;
+}
